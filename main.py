@@ -7,7 +7,8 @@ def main():
 
     print(numbers)
     for v in numbers:
-        
+        total += v
+
     
 
     
