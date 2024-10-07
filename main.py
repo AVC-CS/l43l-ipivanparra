@@ -5,6 +5,9 @@ def main():
     for i in range(len(numbers)):
         numbers[i] = int(input('Enter a value: '))
 
+    print(numbers)
+    for v in numbers:
+        
     
 
     
